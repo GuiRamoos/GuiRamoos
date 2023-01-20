@@ -1,5 +1,5 @@
 Olá eu sou o Guilherme Ramos, desenvolvedor de software!
-📚-Análise e desenvolvimento de sistemas
+📚-Análise e desenvolvimento de sistemas <br>
 ⏳-Estudando JavaScript
 
 
