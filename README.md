@@ -1,4 +1,4 @@
-Olá eu sou o Guilherme Ramos, desenvolvedor de software!
+Olá eu sou o Guilherme Ramos, desenvolvedor de software! <br>
 📚-Análise e desenvolvimento de sistemas <br>
 ⏳-Estudando JavaScript
 
