@@ -14,14 +14,7 @@ Olá eu sou o Guilherme Ramos, desenvolvedor de software! <br>
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-![Top Langs](https://github.com/GuiRamoos/github-readme-stats)
-
-
- 
  <br>
- 
- 
- 
 <div> 
    <hr>
   <br>
