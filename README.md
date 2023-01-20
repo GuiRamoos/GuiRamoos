@@ -1,8 +1,8 @@
 Olá eu sou o Guilherme Ramos, desenvolvedor de software! <br>
 📚-Análise e desenvolvimento de sistemas <br>
 ⏳-Estudando JavaScript
-
-
+<br>
+<hr>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
@@ -14,7 +14,8 @@ Olá eu sou o Guilherme Ramos, desenvolvedor de software! <br>
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github.com/GuiRamoos/github-readme-stats)
+
 
  
  <br>
