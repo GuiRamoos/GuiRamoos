@@ -14,7 +14,7 @@ Olá eu sou o Guilherme Ramos, desenvolvedor de software! <br>
 />
 <img src="https://github-readme-stats.vercel.app/api?username=GuiRamoos&show_icons=true" />
 </picture>
-<img height="180em" src="https://camo.githubusercontent.com/e02bc3b3861215a2b68741cec2b619585cb8c6e7fcfbf746977c0593831994c2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d646576656d646f62726f266c61796f75743d636f6d70616374266c616e67735f636f756e743d36267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRamoos&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight" style="max-width: 100%;">
+
  <br>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRamoos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
