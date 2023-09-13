@@ -1,6 +1,6 @@
-Olá eu sou o Guilherme Ramos, desenvolvedor de software! <br>
+Olá eu sou o Guilherme Ramos, DevOps Engineer! <br>
 📚-Análise e desenvolvimento de sistemas <br>
-⏳-Estudando Cloud Computing e FrontEnd
+⏳-Estudando DevOps, Engenharia SRE e Cloud Computing!
 <br>
 <hr>
 <picture>
